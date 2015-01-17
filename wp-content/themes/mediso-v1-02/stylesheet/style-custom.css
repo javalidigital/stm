@@ -1,13 +1,13 @@
 html.ltie9 body, body{ min-width: 1140px; } .container{ max-width: 1140px; } .gdlr-caption-wrapper .gdlr-caption-inner{ max-width: 1140px; }
 .body-wrapper.gdlr-boxed-style { max-width: 1220px; }
 .gdlr-navigation-wrapper .gdlr-navigation-container{ text-align: center; }
-.gdlr-logo{ max-width: 200px; }
+.gdlr-logo{ max-width: 233px; }
 .gdlr-logo{ margin-top: 25px; }
 .gdlr-logo{ margin-bottom: 25px; }
 .gdlr-logo-right-text{ margin-top: 50px; }
-.gdlr-page-title-wrapper { background-image: url('http://127.0.0.1/stm/wp-content/uploads/2014/11/10597317845_9d3e42b4e4_k.jpg'); }
-body.single .gdlr-page-title-wrapper { background-image: url('http://127.0.0.1/stm/wp-content/uploads/2014/11/10597317845_9d3e42b4e4_k.jpg'); }
-body.error404 .gdlr-page-title-wrapper { background-image: url('http://127.0.0.1/stm/wp-content/uploads/2014/11/10597317845_9d3e42b4e4_k.jpg'); }
+.gdlr-page-title-wrapper { background-image: url('http://stm.javalidigital.com.br/wp-content/uploads/2014/11/10597317845_9d3e42b4e4_k.jpg'); }
+body.single .gdlr-page-title-wrapper { background-image: url('http://stm.javalidigital.com.br/wp-content/uploads/2014/11/10597317845_9d3e42b4e4_k.jpg'); }
+body.error404 .gdlr-page-title-wrapper { background-image: url('http://stm.javalidigital.com.br/wp-content/uploads/2014/11/10597317845_9d3e42b4e4_k.jpg'); }
 h1, h2, h3, h4, h5, h6{ font-family: "Open Sans"; }
 body, input, textarea{ font-family: "Open Sans"; }
 .gdlr-navigation{ font-family: "Open Sans"; }
@@ -262,3 +262,10 @@ html .woocommerce .quantity .minus, html .woocommerce #content .quantity .minus,
 .gdlr-skin-personnel-onepage .gdlr-item-title-gimmick{ background-color: #ffffff; }
 .gdlr-skin-personnel-onepage *, .gdlr-skin-personnel-onepage .gdlr-skin-border{ border-color: #ffffff; }
 .gdlr-skin-personnel-onepage .gdlr-button, .gdlr-skin-personnel-onepage .gdlr-button:hover, .gdlr-skin-personnel-onepage input[type="button"], .gdlr-skin-personnel-onepage input[type="submit"]{ color: #ffffff; border-color: #ffffff;  }
+.gdlr-column-service-item .column-service-title {
+font-size:12px;
+}
+
+blockquote {
+font-size:15px;
+}
